@@ -1,5 +1,3 @@
-Here’s a simple course assignment using **Gem5** that will allow students to get familiar with the simulator, run basic experiments, and analyze basic processor performance metrics. This assignment is designed to be accessible to students who are new to architectural simulation.
-
 ### **Assignment: Running a Basic Benchmark and Analyzing CPI using Gem5**
 
 ---
