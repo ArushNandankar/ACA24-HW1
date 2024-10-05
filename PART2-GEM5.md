@@ -1,3 +1,5 @@
+**Note: This assignment is under preparation. Meanwhile, you may just start reading and learning about GEM5**
+
 ### **Assignment: Running a Basic Benchmark and Analyzing CPI using Gem5**
 
 ---
