@@ -1,8 +1,8 @@
-
 #include <iostream>
 #include <vector>
 #include <ctime>
 #include <cstdlib>
+// #include <omp.h>
 
 #define TILE_SIZE 32
 
